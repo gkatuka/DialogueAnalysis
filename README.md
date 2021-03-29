@@ -55,7 +55,7 @@ In command line:
     - a csv file (output_ngram_numRow.csv) of the ngrams and the number of rows (i.e. number of sessions theuy occur in (not the number of times they occur***))
 
 Step 4: 
-Go To JMP: 
+Go To JMP (preferred JMP Pro 15): 
 - open the resulting reduced n-grams predictors dataset (output_ngramTable_Xpercent.csv)
 - Add a new columns with outcomes measures 
 - Go to Analyze -> Fit Model
